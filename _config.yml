@@ -1,7 +1,7 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
 url: 
-disqus: #
+disqus: http://shenyanll.github.io/
 author: Shen Yan
 pygments: true
 
