@@ -1,11 +1,9 @@
 ---
 layout: page
-title: 简历（陈宏明）
+title: （沈雁）
 ---
 
 # 联系方式
 
-Email：chenhm@gmail.com  
-主页：<http://chenhm.com/>
-
-待补充
+Email：shenyan1987@gmail.com 
+qq：277393162
