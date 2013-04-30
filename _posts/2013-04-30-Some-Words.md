@@ -6,11 +6,10 @@ category: 一些话
 tags: [深思]
 ---
 
-<pre>The minute you think of giving up , think of the reason why you held on so long.<pre>
----
-在你想要放弃的那一刻，想想为什么当初坚持走到了这里。<br>
+The minute you think of giving up , think of the reason why you held on so long.
 
 ---
+
 有时候不知怎么的就走到了这一步<br>
 或者是当初一意孤行的抉择<br>
 或者是选择后的要强<br>
