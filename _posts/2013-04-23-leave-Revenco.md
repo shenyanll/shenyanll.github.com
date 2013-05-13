@@ -2,7 +2,7 @@
 layout: post
 title: "离开从兴..."
 description: "工作了两年的地方，很多难忘的回忆，很多难忘的人"
-category: person
+category: About Person
 tags: [person]
 ---
 ###写在前面		

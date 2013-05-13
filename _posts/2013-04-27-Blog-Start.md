@@ -2,7 +2,7 @@
 layout: post
 title: "Start Blog"
 description: "开始用博客记录生活、工作"
-category: person
+category: About Person
 tags: [person]
 ---
 ###写在前面

@@ -2,7 +2,7 @@
 layout: post
 title: "一些话"
 description: "一些话"
-category: 一些话
+category: About Person
 tags: [深思]
 ---
 
